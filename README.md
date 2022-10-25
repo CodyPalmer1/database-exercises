@@ -1,1 +1,1 @@
-# mySQL
+# database-exercises
